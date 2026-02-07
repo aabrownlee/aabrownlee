@@ -1,0 +1,31 @@
+---
+---
+
+@import "jekyll-theme-primer";
+
+body, .markdown-body {
+    background-color: #1a1a2e;
+    color: #e0e0e0;
+}
+
+.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4 {
+    color: #ffffff;
+    border-bottom-color: #444;
+}
+
+.markdown-body a {
+    color: #4da6ff;
+}
+
+.markdown-body hr {
+    background-color: #444;
+}
+
+.markdown-body table tr {
+    background-color: #1a1a2e;
+    border-color: #444;
+}
+
+.markdown-body table tr:nth-child(2n) {
+    background-color: #16213e;
+}
