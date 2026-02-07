@@ -1,5 +1,3 @@
-# Anthony Brownlee
-
 **Project Manager | Scuba Instructor**
 
 A United States Marine Corps veteran, Anthony has over 20 years of IT experience ranging from help desk to his current position as an IT Infrastructure Project Manager.
